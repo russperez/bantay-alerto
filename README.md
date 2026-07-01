@@ -1,33 +1,41 @@
-# Project Name
-A brief one-line description of your project and what it does.
+# BantayAlerto
+A geofenced missing person alert platform that rapidly connects families, nearby communities, and barangays to accelerate missing person search efforts.
 
 ## About the Project
-This project is developed as part of SparkFest 2026, a hackathon organized by Google Developer Groups on Campus - Polytechnic University of the Philippines (GDG PUP).
-It aims to solve a real-world or community-based problem through technology, innovation, and collaboration.
+BantayAlerto is developed as part of SparkFest 2026, a hackathon organized by Google Developer Groups on Campus – Polytechnic University of the Philippines (GDG PUP).
+
+The project addresses the challenge of slow and fragmented dissemination of missing person information by providing a centralized, location-based platform for reporting, verification, and community-assisted search efforts.
 
 ## Problem Statement
-Describe the problem your project is trying to solve.
-Example:
-What issue does your project address? Why is it important?
+Missing person cases in the Philippines are primarily shared through social media and messaging platforms, where information spreads passively and often fails to reach the people most likely to encounter the missing individual.
+
+Additionally, there is no centralized system that distinguishes officially documented cases from unverified reports, reducing public confidence and limiting effective community participation during the critical early hours of a search.
 
 ## Proposed Solution
-Explain your solution in a simple and clear way.
+BantayAlerto is a cross-platform mobile application that enables families to submit missing person reports containing photographs, physical descriptions, contact information, and the last known location.
 
-- What does your system/app do?
-- How does it solve the problem?
-- What makes it different?
+The platform immediately broadcasts geofenced notifications to nearby users, allowing community members to submit geotagged sighting reports with optional photo evidence.
+
+To improve report credibility, families may upload official supporting documents (e.g., barangay certification or PNP police blotter), which are reviewed by designated Barangay Admins before assigning verification badges (Unverified, Barangay Verified, or PNP Verified).
+
+By combining geofenced broadcasting, community participation, and document verification, BantayAlerto provides a faster, more organized, and more trustworthy alternative to traditional social media sharing.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
-- Feature 4
+- Missing person report creation
+- Geofenced push notifications
+- Community sighting reporting
+- Interactive map of nearby active cases
+- Barangay Admin document verification workflow
+- Verification badges (Unverified, Barangay Verified, PNP Verified)
+- Report history and management
+- Automatic removal of resolved cases from public listings
 
 ## Tech Stack
-- Frontend: (e.g. React, HTML, Flutter)
-- Backend: (e.g. Node.js, Firebase, Python)
-- Database: (e.g. MySQL, Firestore)
-- Tools: (e.g. Figma, GitHub, etc.)
+- Frontend: React Native
+- Backend: Firebase Authentication, Firebase Cloud Messaging
+- Database: Cloud Firestore, Firebase Storage
+- APIs & Services: Google Maps API
+- Tools: Figma, Github, Visual Studio Code
 
 ## Deployed Project
 - Live Demo: https://your-deployed-link.com
