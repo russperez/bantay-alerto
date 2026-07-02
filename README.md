@@ -1,5 +1,11 @@
-# BantayAlerto
+# CHIEFS - BantayAlerto
 A geofenced missing person alert platform that rapidly connects families, nearby communities, and barangays to accelerate missing person search efforts.
+
+## Team Members
+- Johanna Angela P. Estalilla
+- Matthew Aiman L. Lopez
+- Dharl Russell C. Perez
+- Josiah Zachary Q. Sy
 
 ## About the Project
 BantayAlerto is developed as part of SparkFest 2026, a hackathon organized by Google Developer Groups on Campus – Polytechnic University of the Philippines (GDG PUP).
@@ -38,6 +44,7 @@ By combining geofenced broadcasting, community participation, and document verif
 - Tools: Figma, Github, Visual Studio Code
 
 ## Deployed Project
-- Live Demo: https://your-deployed-link.com
-- Alternative Link (if any): https://your-backup-link.com
-- Github Link: https://github.com/Randylrnz/SparkFest-README
+- Live Demo: https://www.figma.com/proto/bGzgv85dNeNPicQusMPJJq/BantayAlerto?node-id=54-1821&p=f&t=NhIux4tsgkMc55ju-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=54%3A1821
+
+## Event Acknowledgement
+This project was built for and submitted to the SparkFest 2026 Hackathon, organized by GDG PUP.
